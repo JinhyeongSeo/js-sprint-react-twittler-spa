@@ -109,6 +109,14 @@ main {
   cursor: pointer;
 }
 
+.fas2 {
+  font-size: 2rem;
+  color: var(--default-text-color);
+  padding: 1.3rem;
+  cursor: pointer;
+  pointer-events: none;
+}
+
 .features {
   width: 564px;
   display: flex;
